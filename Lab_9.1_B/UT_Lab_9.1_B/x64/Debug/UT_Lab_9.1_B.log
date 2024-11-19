@@ -1,0 +1,5 @@
+﻿  UT_Lab_9.1_B.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(741,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Users\Admin\source\repos\Lab_9.1_B\UT_Lab_9.1_B\UT_Lab_9.1_B.cpp(1,10): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+C:\Users\Admin\source\repos\Lab_9.1_B\UT_Lab_9.1_B\UT_Lab_9.1_B.cpp(1,10): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+C:\Users\Admin\source\repos\Lab_9.1_B\UT_Lab_9.1_B\UT_Lab_9.1_B.cpp(1,10): fatal  error C1903: unable to recover from previous error(s); stopping compilation
